@@ -1,0 +1,10 @@
+
+/ {
+	pldev01: pldev-1 {
+		compatible = "pl-drv-cpa";
+		org,device-serial-num = "PL-DEV01";
+		org,device-author = "DOTU";
+		org,magic-number = <16>;
+	};
+
+};
